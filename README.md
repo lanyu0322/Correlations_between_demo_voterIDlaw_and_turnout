@@ -1,6 +1,7 @@
 # Correlations_between_demo_voterIDlaw_and_turnout
 This project will investigate two primary issues relating to voting-eligible demographics, voter ID requirements and voter turnout. The scope of this study has been restricted to the 2016 presidential election. While the results from this study may not necessarily be extrapolated to all local and national elections, our goal is to provide an initial exploration of the correlations among demographics, voter ID laws and voter turnout.
 
+This is the group project. 
 # The first problem of this project will investigate how voter ID requirements differ among states with varying demographic populations.
 
 Questions we will seek to answer include What is the relationship between minority populations and voter ID
